@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{41AB0848-BAF4-20EB-4095-E029E331277C}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Soundmanager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player.cs" Line="24" Column="30" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="139" Column="9" />
+      <File FileName="Assets/Scripts/TryAgain.cs" Line="13" Column="44" />
+      <File FileName="Assets/Scripts/Soundmanager.cs" Line="8" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
